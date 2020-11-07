@@ -17,7 +17,7 @@ const usage_text = `
 Qiita記事を管理します。今は取得のみに対応しています。`
 
 program
-  .version('0.0.1')
+  .version('0.0.3')
   .usage(usage_text)
   .option('-a, --all-qiita', '全てのQiita記事をarticlesディレクトリに格納します。')
   .option('-i, --import-qiita <id>', '1つのQiita記事をarticlesディレクトリに格納します。')
