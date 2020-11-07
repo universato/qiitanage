@@ -44,7 +44,7 @@ Qiitaの[アプリケーションページ](https://qiita.com/settings/applicati
   - コマンド: `export QIITA_ACCESS_TOKEN=1234567890abcdefg`
   - Qiitanageのコマンドで`-t`オプションを用いて指定する。
 - 半永続的な方法
-  - `export QIITA_ACCESS_TOKEN=1234567890abcdefg`と`.env`ファイルに記入します。`.env`ファイルは、人に見せてはならないものであるため`.gitignore`に必ず記入して下さい。
+  - `QIITA_ACCESS_TOKEN=1234567890abcdefg`と`.env`ファイルに記入します。`.env`ファイルは、人に見せてはならないものであるため`.gitignore`に必ず記入して下さい。
 
 ### 利用する
 
