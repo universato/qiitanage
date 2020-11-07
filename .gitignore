@@ -1,0 +1,7 @@
+.env
+.DS_Store
+
+articles
+books
+node_modules
+qiita_items
