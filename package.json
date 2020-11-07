@@ -1,6 +1,6 @@
 {
   "name": "qiitanage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Qiitaの記事を管理します",
   "main": "main.js",
   "scripts": {
